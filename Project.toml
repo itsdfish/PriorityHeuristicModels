@@ -1,7 +1,7 @@
 name = "PriorityHeuristicModels"
 uuid = "7c5151da-7441-44ce-994c-925a68a5ee0b"
 authors = ["itsdfish"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
